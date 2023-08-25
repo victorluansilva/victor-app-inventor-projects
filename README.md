@@ -6,6 +6,7 @@ Aqui estão meus projetos do App Inventor
 
  - Acesse [PROJETOS](https://github.com/victorluansilva/MEUS_PROJETOS_APPINVENTOR/tree/main/PROJETOS)
 
-### Para acessar as versões *.apk do arquivo
+### Versões 
+ - [v1.0](https://github.com/victorluansilva/MEUS_PROJETOS_APPINVENTOR/releases)
 
- - Vá para [assets](https://github.com/victorluansilva/MEUS_PROJETOS_APPINVENTOR/tree/main/assets)
+
