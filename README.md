@@ -1,8 +1,8 @@
-# Meus Projetos no [MIT App Inventor](https://appinventor.mit.edu/)
+# Meus Projetos no [App Inventor](https://appinventor.mit.edu/)
 
 Aqui estão meus projetos do App Inventor 
 
-### Para ter acesso ao código fonte dos projetos 
+### Para ter acesso aos códigos fontes dos meus projetos 
 
  - Acesse [PROJETOS](https://github.com/victorluansilva/MEUS_PROJETOS_APPINVENTOR/tree/main/PROJETOS)
 
